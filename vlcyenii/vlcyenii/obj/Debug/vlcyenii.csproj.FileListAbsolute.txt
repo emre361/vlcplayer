@@ -1,0 +1,13 @@
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\bin\Debug\vlcyenii.exe.config
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\obj\Debug\Interop.AXVLC.dll
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\obj\Debug\AxInterop.AXVLC.dll
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\obj\Debug\vlcyenii.csproj.ResolveComReference.cache
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\obj\Debug\vlcyenii.Form1.resources
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\obj\Debug\vlcyenii.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\obj\Debug\vlcyenii.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\bin\Debug\vlcyenii.exe
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\bin\Debug\vlcyenii.pdb
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\bin\Debug\Interop.AXVLC.dll
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\bin\Debug\AxInterop.AXVLC.dll
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\obj\Debug\vlcyenii.exe
+c:\users\emre\documents\visual studio 2013\Projects\vlcyenii\vlcyenii\obj\Debug\vlcyenii.pdb
