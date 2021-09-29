@@ -1,0 +1,14 @@
+c:\users\emre\documents\visual studio 2013\Projects\vlc\vlc\bin\Debug\vlc.exe.config
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\obj\Debug\vlc.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\obj\Debug\Interop.AXVLC.dll
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\obj\Debug\vlc.csproj.ResolveComReference.cache
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\obj\Debug\vlc.Form1.resources
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\obj\Debug\vlc.Properties.Resources.resources
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\obj\Debug\vlc.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\bin\Debug\vlc.exe
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\bin\Debug\vlc.pdb
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\bin\Debug\Interop.AXVLC.dll
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\obj\Debug\vlc.exe
+C:\Users\Emre\Documents\Visual Studio 2013\Projects\vlc\vlc\obj\Debug\vlc.pdb
